@@ -1,0 +1,20 @@
+.container-1 img{
+    width: 100%;
+}
+.contaainer-1{
+    width: 40%;
+    float: left;
+}
+.card-footer{
+    border: 0;
+    background-color: white
+}
+
+
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.h3{
+
+}
